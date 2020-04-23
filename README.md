@@ -3,6 +3,8 @@
 
 可以在PC，手机直接运行
 
+### pics.html 示例
+
 ![alt text](sample1.jpg "Title")
 ![alt text](sample1_o1.png "Title")
 ![alt text](sample1_o2.png "Title")
